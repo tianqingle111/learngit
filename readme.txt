@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 nihao
 Git tracks changes to file.
 lala
+compare
